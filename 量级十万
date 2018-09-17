@@ -1,0 +1,55 @@
+251761
+257189
+257609
+select * from user where name='pilnondtyyfwkjqplqmg'
+7206
+46
+46
+select * from user where name like 'pi%'
+6762
+122
+141
+select name from user where name like 'pi%'
+3416
+567
+54
+select name from user where name like 'pi%' order by name
+4357
+55
+57
+select * from user where age = 51 limit 100
+747
+79
+70
+select * from user where age > 47 and age < 52 limit 100
+335
+85
+79
+select * from user where age > 47 and age < 52 and address  like 'beijing%' limit 100
+2316
+165
+472
+select * from user where age > 47 and age < 52 and address='guangdongwfahvvvdfinjzhpfw' limit 100
+6429
+264
+52
+select * from user where address  like  'beijing%' and  age > 47 and age < 52  limit 100
+2436
+147
+449
+select * from user where age =52 and address  like  'beijing%' limit 100
+6477
+83
+293
+select * from user where address like 'beijing%'  limit 100
+171
+193
+114
+select * from user where male = 'f' and age > 47 and age < 52 limit 100
+629
+125
+112
+1579
+282
+210
+

@@ -1,0 +1,55 @@
+3479
+2143
+2098
+select * from user where name='zlizkcpglddzogespixv'
+184
+59
+49
+select * from user where name like 'zl%'
+167
+68
+47
+select name from user where name like 'zl%'
+124
+53
+48
+select name from user where name like 'zl%' order by name
+127
+60
+47
+select * from user where age = 51 limit 100
+156
+50
+57
+select * from user where age > 47 and age < 52 limit 100
+163
+84
+66
+select * from user where age > 47 and age < 52 and address  like 'beijing%' limit 100
+195
+115
+60
+select * from user where age > 47 and age < 52 and address='henanwpbzsdqzbpsygaldw' limit 100
+157
+92
+57
+select * from user where address  like  'beijing%' and  age > 47 and age < 52  limit 100
+151
+62
+64
+select * from user where age =52 and address  like  'beijing%' limit 100
+140
+64
+60
+select * from user where address like 'beijing%'  limit 100
+171
+184
+83
+select * from user where male = 'f' and age > 47 and age < 52 limit 100
+171
+75
+64
+187
+214
+202
+

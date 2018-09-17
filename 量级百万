@@ -1,0 +1,55 @@
+3598258
+3636323
+3783870
+select * from user where name='sxxclpvfdfcudjyqfaib'
+105984
+187
+80
+select * from user where name like 'sx%'
+73707
+15268
+8368
+select name from user where name like 'sx%'
+37937
+321
+455
+select name from user where name like 'sx%' order by name
+58912
+334
+454
+select * from user where age = 51 limit 100
+848
+745
+263
+select * from user where age > 47 and age < 52 limit 100
+357
+628
+115
+select * from user where age > 47 and age < 52 and address  like 'beijing%' limit 100
+2704
+108
+979
+select * from user where age > 47 and age < 52 and address='zhejiangwqswnomayhqopizmw' limit 100
+85532
+2391
+59
+select * from user where address  like  'beijing%' and  age > 47 and age < 52  limit 100
+3529
+122
+605
+select * from user where age =52 and address  like  'beijing%' limit 100
+10745
+657
+508
+select * from user where address like 'beijing%'  limit 100
+232
+225
+436
+select * from user where male = 'f' and age > 47 and age < 52 limit 100
+767
+813
+196
+565
+687
+6571
+
